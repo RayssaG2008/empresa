@@ -79,7 +79,7 @@ with col1:
 
     st.markdown("""
         <img
-            class="logo"
+            class="apple.jpg"
             src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
             style="filter: invert(1);"
         >
@@ -106,7 +106,7 @@ with col2:
 
     st.markdown("""
         <img
-            class="logo"
+            class="netflix(1).pjg"
             src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"
         >
     """, unsafe_allow_html=True)
@@ -132,7 +132,7 @@ with col3:
 
     st.markdown("""
         <img
-            class="logo"
+            class="spacex.jpg"
             src="https://upload.wikimedia.org/wikipedia/commons/d/de/SpaceX-Logo.svg"
         >
     """, unsafe_allow_html=True)
